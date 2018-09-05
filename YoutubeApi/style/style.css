@@ -1,0 +1,19 @@
+.search-bar input {
+    border: 1px solid #ddd;
+    background: none;
+    border-radius: 4px;
+    width: 100%;
+    margin: 20px 0;
+    padding: 0 20px;
+    height: 45px;
+}
+
+.list-group-item {
+    background: none;
+}
+
+.details {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
+}
